@@ -1,0 +1,9 @@
+GET https://github.com/login/oauth/authorize
+client_id-je2b4iq9mtabtbnsmqyovp4lfj2vpvd
+redirect_http://www.twitch.tv/kraken/oauth2/authorize
+scope-sbhtfb1vpa979fnx52sxluvr5y8tqie
+state
+
+POST https://github.com/login/oauth/access_token
+client_id-37e6bf565217e09c66c1
+client_secret-0ad89902a5b181e379eb9469df1e24d0940d8752
